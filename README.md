@@ -5,8 +5,6 @@
 
 __<p align="center">Geekhubs Academy - semana 3</p>__
 
-<p align="center">_______________________________________________</p>
-
 <table align="center">
 <tr>
 <td><b>🔴 Ejercicios básicos, condiciones, bucles y funciones 🔴
